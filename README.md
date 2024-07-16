@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Prazer, sou o Gustavo!</h1>
-<h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
+<h3 align="center">Este é meu repositório de Análise e Engenharia de dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
