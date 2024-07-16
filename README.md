@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Sou formado em Redes de Computadores
 - 👨‍💻 Possuo experiência com suporte de infraestrutura de TI há mais de seis anos
-- 🔭 Atualmente estou focado nas áreas de Análise e Ciência de Dados
+- 🔭 Atualmente estou focado nas áreas de Análise e Engenharia de dados.
 
 <div align="center">
   <a href="https://github.com/GustavoLeodoro">
