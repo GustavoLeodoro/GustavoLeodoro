@@ -22,8 +22,7 @@
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/></a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/selenium-test-automation.png" alt="selenium-test-automation"/></a>
-   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
     </p> 
           
     
