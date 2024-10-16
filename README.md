@@ -3,8 +3,8 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
-- 👨‍🎓 Sou formado em Redes de Computadores
-- 👨‍💻 Possuo experiência com suporte de infraestrutura de TI há mais de seis anos
+- 👨‍🎓 Sou formado em Redes de Computadores.
+- 👨‍💻 Possuo experiência com suporte de infraestrutura de TI há mais de seis anos.
 - 🔭 Atualmente estou focado na de programação e RPA.
 
 <div align="center">
