@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Prazer, sou o Gustavo!</h1>
 <h3 align="center">Bem-vindo ao meu repositório de desenvolvimento de software!</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=GustavoLeodoro&color=blue" alt="Contador de visitas"/>
 </p>
 
