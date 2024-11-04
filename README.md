@@ -23,7 +23,7 @@
 <h2 align="left">🖥 Tech Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,cs,dotnet,selenium,,sql,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,cs,dotnet,selenium,,sqlite,postman" />
   </a>
 </p>
 
