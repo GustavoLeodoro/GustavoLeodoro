@@ -31,8 +31,14 @@
 
 <h2 align="left">🌐 Redes</h2>
 <p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-leodoro/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="https://www.instagram.com/_leodoro"/>
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  <a href="mailto:gustavo.leodoro@gmail.com"/>
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   <a href="https://support.discord.com/hc/en-us/profiles/152197180098">
-    <img src="https://skillicons.dev/icons?i=linkedin,discord,instagram,gmail" />
+    <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
 </p>
 
